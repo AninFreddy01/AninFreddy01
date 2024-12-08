@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Godfred
+- STEM & Robotic Tutor
+- Some experience in Frontend & WordPress
 - 👀 I’m interested in new technologies and gadgets
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects, freelance
