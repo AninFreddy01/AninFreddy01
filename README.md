@@ -1,34 +1,29 @@
-👋 Hi, I'm Godfred!
-🚀 Data Scientist | Machine Learning Enthusiast | Software Developer
+# 👋 Hi, I'm Godfred!
 
-💡 About Me
-🎓 Computer Science Graduate – Wisconsin International University College, Ghana
+🚀 **Data Scientist | Machine Learning Enthusiast | Software Developer**
 
-🧠 Passionate about data science, AI, and software development
+## 💡 About Me  
+- 🎓 **Computer Science Graduate** – Wisconsin International University College, Ghana  
+- 🧠 Passionate about **data science, AI, and software development**  
+- 📊 Experienced in **Python, SQL, Machine Learning, and Data Analytics**  
+- 💻 Skilled in **data structures, algorithms, databases, and cloud computing**  
+- 🌍 Exploring **remote opportunities** in **data science & AI**  
 
-📊 Experienced in Python, SQL, Machine Learning, and Data Analytics
+## 📚 Tech Stack & Tools  
+🔹 **Languages**: Python, SQL, Java, JavaScript  
+🔹 **Frameworks/Libraries**: TensorFlow, Pandas, NumPy, Scikit-learn  
+🔹 **Databases**: MySQL, PostgreSQL, Firebase  
+🔹 **Cloud & DevOps**: Azure ML, AWS, Docker  
+🔹 **Version Control**: Git, GitHub  
 
-💻 Skilled in data structures, algorithms, databases, and cloud computing
+## 🌱 Currently Learning  
+- Advanced **Machine Learning & AI**  
+- **Data Engineering** with Big Data tools  
+- **Cloud Computing & Deployment**  
 
-🌍 Exploring remote opportunities in data science & AI
+## 📫 Connect with Me  
+🔗 **LinkedIn**: https://www.linkedin.com/in/godfred-osei-anin/(#)  
 
-
-📚 Tech Stack & Tools
-🔹 Languages: Python, SQL, Java, JavaScript
-🔹 Frameworks/Libraries: TensorFlow, Pandas, NumPy, Scikit-learn
-🔹 Databases: MySQL, PostgreSQL, Firebase
-🔹 Cloud & DevOps: Azure ML, AWS, Docker
-🔹 Version Control: Git, GitHub
-
-🌱 Currently Learning
-Advanced Machine Learning & AI
-
-Data Engineering with Big Data tools
-
-Cloud Computing & Deployment
-
-📫 Connect with Me
-🔗 LinkedIn: https://www.linkedin.com/in/godfred-osei-anin/
 🌐 Email: aninfreddy01@gmail.com
 
 
