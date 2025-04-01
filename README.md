@@ -10,10 +10,10 @@
 - 🌍 Exploring **remote opportunities** in **data science & AI**  
 
 ## 📚 Tech Stack & Tools  
-🔹 **Languages**: Python, SQL, Java, JavaScript  
+🔹 **Languages**: Python, SQL, JavaScript  
 🔹 **Frameworks/Libraries**: TensorFlow, Pandas, NumPy, Scikit-learn  
-🔹 **Databases**: MySQL, PostgreSQL, Firebase  
-🔹 **Cloud & DevOps**: Azure ML, AWS, Docker  
+🔹 **Databases**: MySQL, PostgreSQL  
+🔹 **Cloud & DevOps**: Azure ML, Docker  
 🔹 **Version Control**: Git, GitHub  
 
 ## 🌱 Currently Learning  
